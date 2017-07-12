@@ -4,7 +4,7 @@ Getting started Vue.js project with Cloud CMS.
 * Server side rendered
 * Hot reload
 * API proxy
-* Unit tests
+* Unit tests example
 
 ## Build Setup
 
@@ -27,5 +27,7 @@ npm run unit
 # run all tests
 npm test
 ```
+## Production
+Serve the `dist/index.html` file over `http` (on apache, nginx, githubpages, ...)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

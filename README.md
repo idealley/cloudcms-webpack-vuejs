@@ -1,4 +1,6 @@
 # Vue + Cloud CMS
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/idealley/cloudcms-webpack-vuejs.svg)](https://greenkeeper.io/)
 Getting started Vue.js project with Cloud CMS.
 
 * Server side rendered
